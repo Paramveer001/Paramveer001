@@ -133,7 +133,7 @@
 ## 🎯 What I Deliver
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215284023-0e9c5f94-5d7f-4b4a-b8f8-15b0d6ad1c2d.gif" width="220"/>
+  <img src="gif-smooth-gihub.mp4" width="220"/>
 </p>
 
 - ✅ Clean & scalable frontend architecture  
