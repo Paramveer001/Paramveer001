@@ -1,10 +1,10 @@
 <!-- ================= HERO SECTION ================= -->
 <p align="center">
-  <img src="/githubheader-param.png" />
+  <img src="./githubheader-param.png" width="100%" alt="Frontend Developer Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215283398-45c27f9d-7b3f-4f38-9c8c-82e1d41c9d8a.gif" width="430"/>
+  <img src="https://user-images.githubusercontent.com/74038190/215283398-45c27f9d-7b3f-4f38-9c8c-82e1d41c9d8a.gif" width="420"/>
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/215283585-6d7c7c6a-4bb4-49bb-9f1e-1c0c92a2f7d4.gif" width="120"/>
 </p>
 
-🎯 **Web Frontend Developer** specializing in **Next.js & Tailwind CSS**, focused on crafting  
+🎯 **Web Frontend Developer** specializing in **Next.js & Tailwind CSS**, focused on building  
 **clean, scalable & high-performance user interfaces**.
 
 - ⚛️ Strong in **React.js & Next.js**
-- 🎨 Pixel-perfect UI using **Tailwind CSS**
+- 🎨 Pixel-perfect UI with **Tailwind CSS**
 - 📱 Fully responsive & mobile-first layouts
 - ⚡ Performance & Core Web Vitals focused
 - ♿ SEO & accessibility friendly frontend
@@ -46,7 +46,7 @@
 ## ✨ Featured Frontend Projects (Next.js + Tailwind)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215283965-69b4f80a-dad6-4e1a-b1f4-6c5e27e39f65.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/215283965-69b4f80a-dad6-4e1a-b1f4-6c5e27e39f65.gif" width="380"/>
 </p>
 
 ---
@@ -54,39 +54,63 @@
 ### ✅ Task Management Software (Frontend)
 > A modern task management dashboard built with **Next.js & Tailwind**
 
-- 📋 Task creation & status UI
-- 🧩 Reusable components architecture
-- 📱 Fully responsive dashboard layout
+- 📋 Task creation, status & dashboard UI
+- 🧩 Reusable component architecture
+- 📱 Fully responsive layout
 - ⚡ Optimized Next.js rendering
 
 🛠 **Tech:** Next.js | Tailwind CSS | React  
-🔗 **Frontend Repo:** (add your repo link)
+
+<p>
+  <a href="https://taskmanagement.drishtiinfotech.net/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Paramveer001/task-management-frontend">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
 ### 💳 Swiftopay – Payment Platform Frontend
-> Clean & professional payment platform UI
+> Clean & professional fintech payment UI
 
-- 💰 Modern fintech UI design
-- 🎨 Tailwind-based components
-- 📱 Mobile-first & responsive layout
-- ⚡ Fast page transitions with Next.js
+- 💰 Modern fintech design system
+- 🎨 Tailwind-based UI components
+- 📱 Mobile-first responsive layout
+- ⚡ Fast routing & transitions
 
 🛠 **Tech:** Next.js | Tailwind CSS | React  
-🔗 **Frontend Repo:** (add your repo link)
+
+<p>
+  <a href="https://www.swiftopay.com/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Paramveer001/swiftopay-frontend">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
 ### ⚖️ Debt Settlement Website (Frontend)
-> Professional debt settlement & finance website UI
+> Professional finance & debt settlement website UI
 
-- 🏦 Corporate-style UI & layout
-- 📄 Informational pages with SEO focus
+- 🏦 Corporate-style layout
+- 📄 SEO-friendly informational pages
 - 📱 Fully responsive design
 - ⚡ Optimized frontend performance
 
 🛠 **Tech:** Next.js | Tailwind CSS | React  
-🔗 **Frontend Repo:** (add your repo link)
+
+<p>
+  <a href="https://debt-settlement-tmy2.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Paramveer001/debt-settlement-frontend">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
@@ -109,7 +133,7 @@
 ## 🎯 What I Deliver
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215284023-0e9c5f94-5d7f-4b4a-b8f8-15b0d6ad1c2d.gif" width="230"/>
+  <img src="https://user-images.githubusercontent.com/74038190/215284023-0e9c5f94-5d7f-4b4a-b8f8-15b0d6ad1c2d.gif" width="220"/>
 </p>
 
 - ✅ Clean & scalable frontend architecture  
@@ -122,10 +146,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/paramveer-singh-pundhir-psp/">
     <img src="https://img.shields.io/badge/LinkedIn-Frontend%20Developer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:paramveersinghpundhir001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -135,7 +159,7 @@
 ## 💼 Recruiter Note
 
 > 🚀 Open to **Frontend / Next.js / React Developer roles**  
-> I focus on **UI quality, performance & real-world frontend projects**
+> Focused on **UI quality, performance & real-world projects**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
