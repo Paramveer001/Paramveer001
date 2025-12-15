@@ -1,6 +1,6 @@
 <!-- ================= HERO SECTION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Paramveer+Singh+Pundhir;Web+Frontend+Developer;Next.js+%7C+React+%7C+Tailwind+CSS;Building+Modern+%26+Scalable+Web+Frontends;Focused+on+UI+Performance+%26+UX" />
+  <img src="/githubheader-param.png" />
 </p>
 
 <p align="center">
