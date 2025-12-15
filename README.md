@@ -133,7 +133,7 @@
 ## 🎯 What I Deliver
 
 <p align="center">
-  <img src="gif-smooth-gihub.mp4" width="220"/>
+  <img src="gif-smooth-gihub.gif" width="220"/>
 </p>
 
 - ✅ Clean & scalable frontend architecture  
