@@ -104,7 +104,7 @@
 🛠 **Tech:** Next.js | Tailwind CSS | React  
 
 <p>
-  <a href="https://debt-settlement-tmy2.vercel.app/">
+  <a href="https://www.debtsettelment.com/">
     <img src="https://img.shields.io/badge/Live%20Demo-View-blue?style=for-the-badge">
   </a>
   <a href="https://github.com/Paramveer001/debt-settlement-frontend">
