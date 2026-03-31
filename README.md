@@ -57,7 +57,7 @@ modern, fast and scalable web applications.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <img src="https://user-images.githubusercontent.com/74038190/215283965-69b4f80a-dad6-4e1a-b1f4-6c5e27e39f65.gif" width="400"/>
 
