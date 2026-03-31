@@ -51,6 +51,34 @@
 
 ---
 
+
+### 🎓 SiyaEdu – Education Platform
+> Modern education platform for course information and student inquiries
+
+- 📚 Interactive course & institute information pages
+- 📩 Contact & inquiry forms with email notifications
+- ⚡ Fast and responsive full-stack web application
+- 🔐 Backend API with secure data handling
+
+🛠 **Tech:** MongoDB | Express.js | React.js | Node.js | Nodemailer | Tailwind CSS  
+
+🚀 **Key Features**
+
+- Student inquiry & contact forms
+- Automatic email notifications using **Nodemailer**
+- Responsive UI for mobile, tablet, and desktop
+- REST API integration with MongoDB database
+- Clean and modern UI design
+
+<p>
+  <a href="https://www.siyaedu.in/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Paramveer001">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge">
+  </a>
+</p>
+
 ### ✅ Task Management Software (Frontend)
 > A modern task management dashboard built with **Next.js & Tailwind**
 
