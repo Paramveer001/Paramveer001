@@ -186,9 +186,25 @@
 
 ## 💼 Recruiter Note
 
-> 🚀 Open to **Frontend / Next.js / React Developer roles**  
-> Focused on **UI quality, performance & real-world projects**
+<p align="center">
+
+🚀 **Open to Opportunities**  
+
+I am actively looking for **Frontend / React / Next.js Developer roles**  
+with a strong focus on building **high-quality UI, performance-optimized apps, and real-world products.**
+
+💡 Passionate about creating **modern, scalable, and responsive web applications** using the latest technologies.
+
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
+
+<img src="https://img.shields.io/badge/Role-Frontend%20Developer-blue?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Stack-React%20%7C%20Next.js%20%7C%20Node.js-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-UI%20Quality%20%7C%20Performance%20%7C%20Real%20Projects-success?style=for-the-badge">
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=160&section=footer"/>
 </p>
